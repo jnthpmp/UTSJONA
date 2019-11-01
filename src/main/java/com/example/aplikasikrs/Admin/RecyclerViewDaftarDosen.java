@@ -60,7 +60,7 @@ public class RecyclerViewDaftarDosen extends AppCompatActivity {
     private void tambahData(){
         dosenList = new ArrayList<>();
         dosenList.add(new Dosen("001","Argo Wibowo", "Proffesor","argo@staff.ukdw.ac.id","Jl. Magelang",R.drawable.argo));
-        dosenList.add(new Dosen("001","Argo Wibowo", "Proffesor","argo@staff.ukdw.ac.id","Jl. Magelang",R.drawable.logo));
+        dosenList.add(new Dosen("001","Jonathan Prajna", "Proffesor","jonathan.prajna@si.ukdw.ac.id","Jl. Magelang",R.drawable.jonasss));
         dosenList.add(new Dosen("001","Argo Wibowo", "Proffesor","argo@staff.ukdw.ac.id","Jl. Magelang",R.drawable.logo));
     }
 }
